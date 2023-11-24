@@ -1,3 +1,5 @@
+![Webpage of the chat](chat-with-gpt.png)
+
 An alternative for ChatGPT Plus using the GPT 4 latest model to simulate a conversation - just like ChatGPT Plus does.
 
 ## Getting Started
