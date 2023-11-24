@@ -4,7 +4,7 @@ An alternative for ChatGPT Plus using the GPT 4 latest model to simulate a conve
 
 ## Getting Started
 
-First, run the development server:
+First, add your OPENAI_API_KEY in the .env file. Then, run the development server:
 
 ```bash
 npm run dev
